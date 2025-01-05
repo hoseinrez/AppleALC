@@ -11,5 +11,13 @@ This layout id is Tested On 💻 __*Lenovo Z510 Ideapad*__
 ✅ HeadPhone Jack Working __+__ Auto Switch Output When Connected
 
 ✅ HeadPhone Microphone Working __+__ Auto Switch Input When Connected
-  
-[Let me know](https://github.com/hoseinrez/AppleALC282/issues) if there is a Problem ...
+
+
+## How to use ?
+Layout 69 is now bundled with [AppleALC - Release](https://github.com/acidanthera/AppleALC/releases)
+
+__Download Kext__ and set the layout on 69 Under your __OpenCore Config file__
+
+
+## Have a question ?
+[Let Me Know](https://github.com/hoseinrez/AppleALC282/issues) if there is a Problem ...
